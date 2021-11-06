@@ -2,7 +2,7 @@
 
 Video Conferencing Webapp is a video chat app that makes it easy to groups up with people you want to meet
 
-Check out the live demo: https://microsoft-teams-webapp.herokuapp.com/
+Check out the live demo: https://webtech-video-conferencing.herokuapp.com/
 
 This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
 
